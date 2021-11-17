@@ -1,4 +1,5 @@
 # ImdbClone
+Technology Used :- Python and Django rest framework.
 Here movies are added on ott platforms and reviews or ratings of users analyze the movies
 This is an api where admin can add Stream or OTT Platforms.
 Movies or web shows can add on these streaming platforms. 
